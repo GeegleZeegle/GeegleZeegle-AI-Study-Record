@@ -28,9 +28,9 @@ Presenters prepare 2-3 questions about the core concepts, methodology, and findi
 
 ## 🎯 Key Topics
 
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge&logo=notion&logoColor=white)](https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4)
-[![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-orange?style=for-the-badge&logo=notion&logoColor=white)](https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4)
-[![Multi Modal & Etc.](https://img.shields.io/badge/Multi%20Modal_&_Etc-green?style=for-the-badge&logo=notion&logoColor=white)](https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge&logo=notion&logoColor=white)]([https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4](https://famous-cloak-588.notion.site/Google-Developer-Group-on-campus-10fbf6853f5680dc9365fc55847754be?pvs=4))
+[![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-orange?style=for-the-badge&logo=notion&logoColor=white)]([https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4](https://famous-cloak-588.notion.site/Google-Developer-Group-on-campus-10fbf6853f5680dc9365fc55847754be?pvs=4))
+[![Multi Modal & Etc.](https://img.shields.io/badge/Multi%20Modal_&_Etc-green?style=for-the-badge&logo=notion&logoColor=white)]([https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4](https://famous-cloak-588.notion.site/Google-Developer-Group-on-campus-10fbf6853f5680dc9365fc55847754be?pvs=4))
 
 ---
 
