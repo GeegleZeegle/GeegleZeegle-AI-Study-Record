@@ -1,6 +1,6 @@
-# Google Developer Group on Campus - GeegleBoogle
+# Google Developer Group on Campus - GeegleZeegle
 
-Welcome to the **GeegleBoogle** AI study group repository! 🚀  
+Welcome to the **GeegleZeegle** AI study group repository! 🚀  
 This is where we collaborate on reviewing research papers, sharing code, and working on exciting AI projects related to our weekly discussions.
 
 ---
