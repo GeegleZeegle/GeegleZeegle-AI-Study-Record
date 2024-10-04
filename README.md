@@ -28,9 +28,9 @@ Presenters prepare 2-3 questions about the core concepts, methodology, and findi
 
 ## 🎯 Key Topics
 
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge&logo=notion&logoColor=white)]([https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4](https://famous-cloak-588.notion.site/Google-Developer-Group-on-campus-10fbf6853f5680dc9365fc55847754be?pvs=4))
-[![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-orange?style=for-the-badge&logo=notion&logoColor=white)]([https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4](https://famous-cloak-588.notion.site/Google-Developer-Group-on-campus-10fbf6853f5680dc9365fc55847754be?pvs=4))
-[![Multi Modal & Etc.](https://img.shields.io/badge/Multi%20Modal_&_Etc-green?style=for-the-badge&logo=notion&logoColor=white)]([https://famous-cloak-588.notion.site/100-Days-of-Python-Pledge-a456633199b04bcbb77f334f87684efe?pvs=4](https://famous-cloak-588.notion.site/Google-Developer-Group-on-campus-10fbf6853f5680dc9365fc55847754be?pvs=4))
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge&logo=notion&logoColor=white)](https://dull-flyaway-b69.notion.site/Computer-Vision-ab28e41f9e334db8a3c4ce72fce9d21c?pvs=4)
+[![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-orange?style=for-the-badge&logo=notion&logoColor=white)](https://dull-flyaway-b69.notion.site/Natural-Language-Processing-ee47aa14e35540ab802dac68400bcb24?pvs=4)
+[![Multi Modal & Etc.](https://img.shields.io/badge/Multi%20Modal_&_Etc-green?style=for-the-badge&logo=notion&logoColor=white)](https://dull-flyaway-b69.notion.site/Multi-Modal-ETC-e40e9578fffc450d95f90dccea7e284b?pvs=4)
 
 ---
 
