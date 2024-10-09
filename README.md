@@ -53,6 +53,15 @@ Presenters prepare 2-3 questions about the core concepts, methodology, and findi
 - **장정우 Jang Jungwoo**: Study Coordinator  
   📧 [jangisalive@gmail.com](mailto:jangisalive@gmail.com)
 
+- **김연성 Kim Y S**:   
+  📧 [cion2780@gmail.com](mailto:cion2780@gmail.com)
+
+- **정소현 Jung S H**:    
+  📧 [thgus12098@gmail.com](mailto:thgus12098@gmail.com)
+
+- **기현명 Ki H M**:   
+  📧 [kiwizcloud@jnu.ac.kr](mailto:kiwizcloud@jnu.ac.kr)
+
 ---
 
 Feel free to explore the repository for **paper reviews**, **code**, and other materials from our weekly sessions.
