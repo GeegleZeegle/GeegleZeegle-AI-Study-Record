@@ -60,7 +60,7 @@ Presenters prepare 2-3 questions about the core concepts, methodology, and findi
   📧 [thgus12098@gmail.com](mailto:thgus12098@gmail.com)
 
 - **기현명 Ki H M**:   
-  📧 [kiwizcloud@jnu.ac.kr](mailto:kiwizcloud@jnu.ac.kr)
+  📧 [kiwizcloud@gmail.com](mailto:kiwizcloud@gmail.com)
 
 ---
 
