@@ -44,23 +44,23 @@ Presenters prepare 2-3 questions about the core concepts, methodology, and findi
 
 ## 👥 Members & Roles
 
-- **최라윤 Choi Rayoon**: CV Specialist & Record Keeper  
+- **최라윤 Choi Rayoon**: Record Keeper & CV Specialist  
   📧 [rayoun331349@gmail.com](mailto:rayoun331349@gmail.com)
 
-- **이준연 Lee Junyeon**: NLP Specialist  
+- **이준연 Lee Junyeon**: Study Coordinator & NLP Specialist
   📧 [gtrewer632@gmail.com](mailto:gtrewer632@gmail.com)
 
-- **장정우 Jang Jungwoo**: Study Coordinator  
-  📧 [jangisalive@gmail.com](mailto:jangisalive@gmail.com)
-
-- **김연성 Kim Y S**:   
+- **김연성 Kim Y S**: CV Specialist 
   📧 [cion2780@gmail.com](mailto:cion2780@gmail.com)
 
-- **정소현 Jung S H**:    
+- **정소현 Jung S H**: CV Specialist 
   📧 [thgus12098@gmail.com](mailto:thgus12098@gmail.com)
 
-- **기현명 Ki H M**:   
+- **기현명 Ki H M**: CV Specialist 
   📧 [kiwizcloud@gmail.com](mailto:kiwizcloud@gmail.com)
+  
+- **장정우 Jang Jungwoo**: Study Coordinator 
+  📧 [jangisalive@gmail.com](mailto:jangisalive@gmail.com)
 
 ---
 
