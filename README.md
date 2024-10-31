@@ -50,13 +50,13 @@ Presenters prepare 2-3 questions about the core concepts, methodology, and findi
 - **이준연 Lee Junyeon**: Study Coordinator & NLP Specialist   
   📧 [gtrewer632@gmail.com](mailto:gtrewer632@gmail.com)
 
-- **김연성 Kim Y S**: CV Specialist   
+- **김연성 Kim Yeonseong**: CV Specialist   
   📧 [cion2780@gmail.com](mailto:cion2780@gmail.com)
 
-- **정소현 Jung S H**: CV Specialist   
+- **정소현 Jung Sohyeon**: CV Specialist   
   📧 [thgus12098@gmail.com](mailto:thgus12098@gmail.com)
 
-- **기현명 Ki H M**: CV Specialist   
+- **기현명 Ki Hyeonmyoung**: CV Specialist   
   📧 [kiwizcloud@gmail.com](mailto:kiwizcloud@gmail.com)
   
 - **장정우 Jang Jungwoo**: Study Coordinator    
