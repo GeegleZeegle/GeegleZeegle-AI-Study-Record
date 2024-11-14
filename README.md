@@ -60,7 +60,7 @@ Presenters prepare 2-3 questions about the core concepts, methodology, and findi
   📧 [kiwizcloud@gmail.com](mailto:kiwizcloud@gmail.com)
   
 - **장정우 Jang Jungwoo**: Study Coordinator    
-  📧 [jangisalive@gmail.com](mailto:jangisalive@gmail.com)
+  📧 [jangisalive1650@gmail.com](mailto:jangisalive@gmail.com)
 
 ---
 
